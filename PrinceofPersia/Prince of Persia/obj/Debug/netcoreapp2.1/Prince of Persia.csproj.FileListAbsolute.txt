@@ -1,0 +1,22 @@
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.AssemblyInfo.cs
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.deps.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.runtimeconfig.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.runtimeconfig.dev.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.dll
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.pdb
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.dll
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.pdb
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.deps.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.runtimeconfig.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.runtimeconfig.dev.json
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.dll
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\bin\Debug\netcoreapp2.1\Prince of Persia.pdb
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.AssemblyInfo.cs
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.dll
+C:\Users\SV\Desktop\PrinceofPersia\Prince of Persia\obj\Debug\netcoreapp2.1\Prince of Persia.pdb
