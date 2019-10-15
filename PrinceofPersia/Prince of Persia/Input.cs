@@ -70,7 +70,8 @@ namespace PrinceofPersia
                             break;
                     }
                     break;
-                case ConsoleKey.F1: // вызов + здоровье или деньги или сохранение
+                case ConsoleKey.F1: // баги при вызове... исправить рожее
+
                     console.ConsolePrmpt(map, null);
                     break;
             }

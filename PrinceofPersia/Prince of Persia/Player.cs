@@ -104,7 +104,7 @@ namespace PrinceofPersia
                 {
                     
                     Console.Clear();
-                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine();
                     Console.Write(@"
 ╔═══╦══╦╗──╔╦═══╗

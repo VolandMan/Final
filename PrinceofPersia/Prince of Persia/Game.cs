@@ -20,9 +20,9 @@ namespace PrinceofPersia
         public static int WindowHeight = 100;
         public static int WindowBufferWidth = WindowWidth;
         public static int WindowBufferHeight = WindowHeight;
-        public static string PlayerName = "nonname"; // если игрок не пнаписал имя
+      //  public static string PlayerName = "nonname"; // если игрок не пнаписал имя
 
-        private static string SaveFileDir = @"Data\Save\" + PlayerName + ".sav"; //сохраняем файлы результыты (Криво работает)
+      //  private static string SaveFileDir = @"Data\Save\" + PlayerName + ".sav"; //сохраняем файлы результыты ... до конца не работает
         public static string WindowTitle = "Prince of Persia";
 
 

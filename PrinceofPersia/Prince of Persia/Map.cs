@@ -1,7 +1,7 @@
 ﻿
 using System;
 using System.IO;
-//using System.Windows.Forms;
+//using System.Windows.Forms; 
 
 namespace PrinceofPersia
 {
@@ -33,6 +33,13 @@ namespace PrinceofPersia
             int lineCount = File.ReadAllLines(@"Data\Maps\Campaign\cmap" + MapNo + ".map").Length;
             int colsCount = fileLoader.ReadLine().Length;
             MapChar = new char[lineCount, colsCount];
+            /*
+             *  LifeObjects = new char[];
+            CashObjects = new char[];
+             * 
+             * 
+             * 
+             */
             LifeObjects = new char[lineCount, colsCount];
             CashObjects = new char[lineCount, colsCount];
             //загружаем карту в масив из файла
@@ -102,6 +109,7 @@ namespace PrinceofPersia
         /*
          * карта 
          */
+         
         public void ListMaps(string type)
         {
             if (type == "компания")

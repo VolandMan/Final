@@ -7,7 +7,7 @@ namespace PrinceofPersia
     {
         public string[] mMenuList = new string[]
        {
-            "В путь!",  "Выход"   //  Доделать  "Загрузить игру"  и  Кредиты  ввод с консоли ConsolePrompt
+            "В путь!",   "Загрузить игру", "Кредиты", "Выход" //  ввод с консоли ConsolePrompt
        };
         static Timer timer = new Timer();
 
